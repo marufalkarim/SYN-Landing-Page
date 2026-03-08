@@ -41,7 +41,7 @@ export function LandingReveal() {
                     >
                         <div className="flex flex-col items-center lg:items-start gap-3">
                             <motion.a
-                                href="https://sparksyouneed.gumroad.com/l/psychologyofbecomingabetteryou/SYNFAMS"
+                                href="https://sparksyouneed.gumroad.com/l/psychologyofbecomingabetteryou/SYNFAMS?wanted=true"
                                 data-gumroad-overlay-checkout="true"
                                 className="inline-block relative group w-full sm:w-auto"
                                 whileHover={{ scale: 1.05 }}
